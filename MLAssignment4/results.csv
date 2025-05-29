@@ -1,0 +1,6 @@
+Local Price,Bathrooms,Land Area,Living area,# Garages,# Rooms,# Bedrooms,Age of home,P(House),P(Apartment),P(Condo),Actual Construction Type,Predicted Class
+high: 6.0931,1.5,high: 6.7265,high: 1.652,1.0,6,3,high: 44,4.371356444047243e-05,3.934220799642518e-05,0.00011431184270690439,Apartment,Condo
+high: 8.3607,1.5,high: 9.15,high: 1.777,2.0,8,4,high: 48,0.0,8.742712888094485e-06,0.0,House,Apartment
+high: 8.14,1.0,high: 8.0,high: 1.504,2.0,7,3,low: 3,0.0007868441599285037,8.742712888094484e-05,5.7155921353452195e-05,House,House
+high: 9.1416,1.5,high: 7.3262,high: 1.831,1.5,8,4,mid: 31,0.0,2.9142376293648285e-06,0.0,Apartment,Apartment
+high: 12.0,1.5,mid: 5.0,mid: 1.2,2.0,6,3,low: 30,0.00017485425776188972,1.748542577618897e-05,0.00011431184270690439,Apartment,House
